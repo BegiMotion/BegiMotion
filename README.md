@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BegiMotion
 - 👀 I’m interested in anime, listening to music and drawing
-- 🌱 I’m currently learning web developing on HTML
+- 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on something later :D
 - 📫 How to reach me @goose2480 (telegram)
 - 😄 Pronouns: I dunno any, sorry :)
